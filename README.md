@@ -5,7 +5,7 @@ NxtWatch is a video streaming application built using React that provides users 
 ## Features
 
 ### Login Route
-- Displays an error message when invalid credentials are provided.
+- Displays an error message when invalid credentials are provided. 
 - Navigates to the Home route upon successful authentication.
 - Redirects unauthenticated users to the Login route when accessing protected routes.
 - Redirects authenticated users attempting to access the Login route to the Home route.
